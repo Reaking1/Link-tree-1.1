@@ -15,7 +15,7 @@ export default function Navbar() {
     return (
         <nav>
             <Image src={Banner} alt="image of the gang" style={styles} />
-            {isVisible && <h1 className="whiteText rubberBand">Welcome to my oni tree</h1>}
+            {isVisible && <h1 className="whiteText rubberBand">Welcome to the tree</h1>}
         </nav>
     );
 }

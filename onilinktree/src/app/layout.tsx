@@ -3,7 +3,8 @@ import type { Metadata } from 'next';
 import { Press_Start_2P } from 'next/font/google';
 import './globals.css';
 import Navbar from './componets/page';
-import Main from './links/page';
+import Main from './componets/links/page';
+
 
 interface RootLayoutProps {
   children: React.ReactNode;
