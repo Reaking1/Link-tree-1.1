@@ -9,7 +9,7 @@ export default function NotFound() {
       </h1>
       <Link href="/">
         <button className="rainbowButton" type="button">
-          Back to Home Page
+          Home Page
         </button>
       </Link>
     </main>
